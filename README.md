@@ -1,4 +1,3 @@
 # DatabaseApp
-An application which processes a database based on the users selection
-
-Even reads pictures off of the database! How cool is that
+An application which reads off of a database and displays information about different characters Including correlating pictures
+Picture of running app included
